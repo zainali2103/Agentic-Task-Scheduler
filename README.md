@@ -1,6 +1,5 @@
 # Autonomous Task Planner
-### MSc Data Science Thesis — Arden University Berlin Campus
-**Author:** Zain Ali | **Year:** 2025
+**Author:** Zain Ali | **Year:** 2026
 
 > *"To what extent does LLM-based dynamic task re-prioritisation outperform static scheduling algorithms in multi-constraint personal productivity environments?"*
 
@@ -230,4 +229,3 @@ The synthetic dataset is released as an open artefact under the MIT Licence.
 
 ---
 
-*MSc Data Science · Arden University Berlin Campus · Zain Ali · 2025*
