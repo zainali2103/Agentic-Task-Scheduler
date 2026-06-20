@@ -50,8 +50,8 @@ autonomous-task-planner-/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/autonomous-task-planner-msc.git
-cd autonomous-task-planner-msc
+git clone https://github.com/yourusername/autonomous-task-planner-.git
+cd autonomous-task-planner-
 ```
 
 ### 2. Install dependencies
