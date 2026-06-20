@@ -20,7 +20,7 @@
 ## 📁 Project Structure
 
 ```
-autonomous-task-planner-msc/
+autonomous-task-planner-/
 │
 ├── notebooks/
 │   ├── 01_Dataset_Generator.ipynb   # Synthetic dataset generation + EDA
