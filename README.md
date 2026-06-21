@@ -214,9 +214,8 @@ The interactive dashboard (`dashboard/dashboard.html`) requires no installation.
 If you use this dataset or code in your own research, please cite:
 
 ```
-Ali, Z. (2025). Autonomous Task Planner: LLM-Powered Dynamic Scheduling
-with Deep Reinforcement Learning. MSc Data Science Thesis,
-Arden University Berlin Campus.
+Ali, Z. (2026). Autonomous Task Planner: LLM-Powered Dynamic Scheduling
+with Deep Reinforcement Learning.
 ```
 
 ---
