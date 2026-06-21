@@ -1,5 +1,4 @@
 # Autonomous Task Planner
-**Author:** Zain Ali | **Year:** 2026
 
 > *"To what extent does LLM-based dynamic task re-prioritisation outperform static scheduling algorithms in multi-constraint personal productivity environments?"*
 
